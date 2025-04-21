@@ -46,7 +46,7 @@ Arogya AI leverages several advanced AI technologies to provide a seamless user 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/CodeWizardl/AROGYA-AI.git
+   git clone https://github.com/Docsaiii/AROGYA-AI.git
    cd AROGYA-AI
    ```
 
